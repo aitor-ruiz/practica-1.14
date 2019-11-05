@@ -1,22 +1,18 @@
 @import url(../../../css/style.css);
 
+/* Cabecera  */
+
 header h2{
     text-align: center;
     font-size: 40px;
     padding: 30px;
 }
 
-main p{
-    padding: 0px 30px;
-}
-main hr {
-    padding: 0px;
-}
-
-li{
+/* menu */
+nav li{
     float: left;
 }
-a{
+nav a{
     padding-right: 10px;
 }
 
@@ -24,6 +20,7 @@ nav{
     margin-bottom: 30px;
 }
 
+/* Parte principal */
 main{
     padding-bottom: 30px;;
 }
@@ -36,3 +33,20 @@ main{
 img{
     margin: 0px 5px;
 }
+
+/* Listado de productos */
+    section{
+        padding: 0px 30px;
+    }
+
+    h3 {
+        font-size: 23px;
+        font-weight: 600;
+    }
+    .enumerado li{
+     padding-bottom: 5px;   
+    }
+
+    .noenumerado li {
+        padding-bottom: 5px;
+    }
