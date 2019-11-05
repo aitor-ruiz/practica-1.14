@@ -9,19 +9,23 @@ header h2{
 }
 
 /* menu */
-nav li{
-    float: left;
-}
-nav a{
-    padding-right: 10px;
-}
-
 nav{
     margin-bottom: 30px;
 }
 
+nav li{
+    float: left;
+}
+
+nav a{
+    padding-right: 10px;
+}
+
+
+
 /* Parte principal */
 main{
+
     padding-bottom: 30px;;
 }
 

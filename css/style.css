@@ -33,7 +33,6 @@ body {
 	line-height: 1;
 }
 
-}
 blockquote, q {
 	quotes: none;
 }
@@ -71,6 +70,7 @@ html{
 
 nav {
     padding: 30px;
+    margin: 0;
 }
 
 /* Color, tamaño y demás a los enlaces del menú */
